@@ -3,9 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/field/IField.java</file>
+            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/move/IMove.java</file>
+            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/game/MyField.java</file>
+            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/bot/IBot.java</file>
             <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/UltimateTickTackToe.java</file>
             <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/gui/View/UTTTGUIController.java</file>
-            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/gui/View/UTTTGUI.fxml</file>
+            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/game/IGameState.java</file>
+            <file>file:/C:/Users/pmj/Dropbox/Studie/Sco2/UltimateTickTackToe/UltimateTickTackToe/src/game/GameManager.java</file>
         </group>
     </open-files>
 </project-private>
