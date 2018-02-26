@@ -23,8 +23,6 @@ public class UTTTGUIController implements Initializable {
     @FXML
     private Label showNextPlayer;
     @FXML
-    private MenuItem choice1;
-    @FXML
     private GridPane macroBoard;
     @FXML
     private GridPane microOne;

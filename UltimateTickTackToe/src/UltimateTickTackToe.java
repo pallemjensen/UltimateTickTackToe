@@ -1,3 +1,11 @@
+
+import java.io.IOException;
+import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -9,13 +17,19 @@
  *
  * @author pmj
  */
-public class UltimateTickTackToe {
+public class UltimateTickTackToe extends Application{
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    @Override
+    public void start(Stage stage) throws Exception {
+        FXMLLoader fxloader = new FXMLLoader(getClass().getResource("gui/View/UTTTGUI.fxml"));
+        Parent root = fxloader.load();
+        Scene scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+    }
+    
+    public static void main(String[] args)  {
+        launch(args);
     }
     
 }
