@@ -27,21 +27,23 @@ public class UTTTGUIController implements Initializable {
     @FXML
     private GridPane microOne;
     @FXML
-    private GridPane microTwo;
+    private GridPane microOne1;
     @FXML
-    private GridPane MicroThree;
+    private GridPane microOne2;
     @FXML
-    private GridPane MicroFour;
+    private GridPane microOne3;
     @FXML
-    private GridPane MicroFive;
+    private GridPane microOne4;
     @FXML
-    private GridPane microSix;
+    private GridPane microOne5;
     @FXML
-    private GridPane microSeven;
+    private GridPane microOne6;
     @FXML
-    private GridPane microEight;
+    private GridPane microOne7;
     @FXML
-    private GridPane microNine;
+    private GridPane microOne8;
+    @FXML
+    private GridPane microOne9;
 
     /**
      * Initializes the controller class.
